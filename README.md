@@ -1,10 +1,10 @@
 
-This MovieLand allows you to find movies by searching using React JS and an omdbapi API REST.
+This MovieLand app allows you to find movies by searching using React JS and an omdbapi API REST.
 you can just write the name of the movie at the search bar.
 
 // TO RUN THE APPLICATION
-npm install //installing app dependencies
-npm start   // running the app
+-npm install //installing app dependencies
+-npm start   // running the app
 
 
 
